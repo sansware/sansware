@@ -24,7 +24,7 @@ Based in Europe.
 | 🎫 | **[TicketWave HQ](https://github.com/TicketWaveHQ)** | Founder + Technical CTO | Access-decision infrastructure for ticketing, hospitality, and services — Stripe Connect, multi-vertical (events / food / bookings) → [ticketwavehq.com](https://ticketwavehq.com) |
 | 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed website infrastructure for UK businesses — hand-crafted, EU-sovereign, from £45/month → [ukwebmarketing.com](https://ukwebmarketing.com) |
 | 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + Technical Lead | EU-sovereign clinical documentation AI for UK and German private practice → [orenvahealth.com](https://orenvahealth.com) |
-| 🥋 | **[Brother Sylvester Academy](https://github.com/sansware/Brother-Sylvester)** | Engineering Partner | Building digital infrastructure with [Sylvester Akinpelumi](https://brothersylvesteracademy.com) |
+| 🥋 | **[Brother Sylvester Academy](https://github.com/sansware/Brother-Sylvester)** | Engineering Partner | Building digital infrastructure with [Brother Sylvester](https://brothersylvesteracademy.com) |
 
 ---
 
