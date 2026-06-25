@@ -24,7 +24,7 @@ leadership for startups scaling MVPs into production systems. Based in Europe.
 | 🎫 | **[TicketWave HQ](https://github.com/TicketWaveHQ)** | Founder + Technical CTO | Access-decision infrastructure for ticketing, hospitality, and services — Stripe Connect, multi-vertical (events / food / bookings) → [ticketwavehq.com](https://ticketwavehq.com) |
 | 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses — education-led, compliance-first, fully managed from £295/month → [ukwebmarketing.com](https://ukwebmarketing.com) |
 | 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + Technical Lead | EU-sovereign clinical documentation AI for UK and German private practice → [orenvahealth.com](https://orenvahealth.com) |
-| 📚 | **[Brother Sylvester](https://github.com/sansware/Brother-Sylvester)** | Engineering Partner | Afrocentric education for children and families — Academy LMS + CIO foundation, taught with love and sensitivity → [brothersylvester.com](https://brothersylvester.com) |
+| 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Engineering Partner | Afrocentric education for children and families — Academy LMS + CIO foundation, taught with love and sensitivity → [brothersylvester.com](https://brothersylvester.com) |
 
 ---
 
