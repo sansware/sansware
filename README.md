@@ -23,7 +23,7 @@ leadership for startups scaling MVPs into production systems. Based in Europe.
 |---|---|---|---|
 | 🎫 | **[TicketWave HQ](https://github.com/TicketWaveHQ)** | Founder + Technical CTO | Access-decision infrastructure for ticketing, hospitality, and services — Stripe Connect, multi-vertical (events / food / bookings) → [ticketwavehq.com](https://ticketwavehq.com) |
 | 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses — education-led, compliance-first, fully managed from £295/month → [ukwebmarketing.com](https://ukwebmarketing.com) |
-| 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + Technical Lead | EU-sovereign clinical documentation AI for UK and German private practice → [orenvahealth.com](https://orenvahealth.com) |
+| 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder & CTO | The connective layer for healthcare — one health context across consultation, pharmacy, therapy, fitness, insurance & wellness. EU-sovereign, India-first. Coming soon → [orenvahealth.com](https://orenvahealth.com) |
 | 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Engineering Partner | Afrocentric education for children and families — Academy LMS + CIO foundation, taught with love and sensitivity → [brothersylvester.com](https://brothersylvester.com) |
 
 ---
@@ -43,9 +43,9 @@ I am the engineer who answers your email. There's no "team" layer between us.
 
 ## 🎓 Background
 
-- Engineering management — Loughborough University
-- Software engineering & AI — Harvard (via [HarvardX](https://www.edx.org/school/harvardx))
-- 7+ years building production web systems
+- **BSc Architectural Engineering & Design Management** — Loughborough University
+- **HarvardX GSD1x: The Architectural Imagination** — Harvard University ([verified certificate](https://courses.edx.org/certificates/614c26ddea004818a73d50ad8b264855))
+- **20+ years building for the web** — since 2006
 
 ---
 
