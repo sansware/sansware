@@ -7,7 +7,7 @@
 **Fractional CTO · Founder · EU-sovereign systems engineer**
 
 I build EU-sovereign web, ticketing, and AI products — and provide technical
-leadership for startups scaling MVPs into production systems. Based in Europe.
+leadership for startups scaling MVPs into production systems. Based in the United Kingdom.
 
 [![Email](https://img.shields.io/badge/Email-jordan%40sansware.tech-22c55e?style=flat-square&labelColor=0b0620)](mailto:jordan@sansware.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eu--jordangilbert-0a66c2?style=flat-square&labelColor=0b0620)](https://www.linkedin.com/in/eu-jordangilbert/)
@@ -26,6 +26,7 @@ leadership for startups scaling MVPs into production systems. Based in Europe.
 | 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses — education-led, compliance-first, fully managed from £49/month (plus £295 launch fee, waived on annual plans) → [ukwebmarketing.com](https://ukwebmarketing.com) |
 | 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder & CTO | The connective layer for healthcare — one health context across consultation, pharmacy, therapy, fitness, insurance & wellness. EU-sovereign, India-first. Coming soon → [orenvahealth.com](https://orenvahealth.com) |
 | 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Engineering Partner | Afrocentric education for children and families — Academy LMS + CIO foundation, taught with love and sensitivity → [brothersylvester.com](https://brothersylvester.com) |
+| 🌍 | **[Citorah](https://citorah.com)** | Founder + Engineer | City travel-guide network for Ibiza, Barcelona, Madrid, London, Lisbon, Greece, and Dubai → [citorah.com](https://citorah.com) |
 
 ---
 
@@ -34,7 +35,7 @@ leadership for startups scaling MVPs into production systems. Based in Europe.
 **Hands-on, single-engineer, AI-leveraged.** Every line of code I ship — or oversee — I can explain. I don't subcontract critical paths.
 
 - **Stack default**: Next.js 16 + Astro 6 on Vercel · Neon Postgres · Stripe Connect · Resend · Cloudflare for DNS/edge · Sentry EU + PostHog EU
-- **Frameworks I lean on**: TypeScript, Drizzle ORM, Tailwind 4 (CSS-first), Turborepo, Drizzle migrations
+- **Frameworks I lean on**: TypeScript, Drizzle ORM (schema + migrations), Tailwind 4 (CSS-first), Turborepo
 - **Compliance posture default**: EU-sovereign hosting, DKIM/SPF/DMARC alignment, DNSSEC, RFC 9116 security.txt
 - **Engineering principle**: ship a thing that works end-to-end before adding the second feature
 
@@ -66,3 +67,21 @@ I am the engineer who answers your email. There's no "team" layer between us.
 *Operating company: **TicketWave HQ Ltd** · Companies House [17143167](https://find-and-update.company-information.service.gov.uk/company/17143167) · England & Wales*
 
 </div>
+
+---
+
+## 🔗 Find me elsewhere
+
+[@TicketWaveHQ](https://github.com/TicketWaveHQ) · [@Ukwebmarketing](https://github.com/Ukwebmarketing) · [@Orenva-Health](https://github.com/Orenva-Health) · [LinkedIn](https://www.linkedin.com/in/eu-jordangilbert/)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Jordan Gilbert",
+  "url": "https://ukwebmarketing.com/jordan",
+  "jobTitle": "Fractional CTO",
+  "sameAs": ["https://github.com/sansware", "https://www.linkedin.com/in/eu-jordangilbert/", "https://ukwebmarketing.com/jordan"],
+  "worksFor": [{"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"}, {"@type": "Organization", "name": "UK Web Marketing", "url": "https://ukwebmarketing.com"}, {"@type": "Organization", "name": "Orenva Health", "url": "https://orenvahealth.com"}]
+}
+```
