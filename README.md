@@ -22,7 +22,8 @@ leadership for startups scaling MVPs into production systems. Based in Europe.
 | | Project | Role | Where |
 |---|---|---|---|
 | 🎫 | **[TicketWave HQ](https://github.com/TicketWaveHQ)** | Founder + Technical CTO | Access-decision infrastructure for ticketing, hospitality, and services — Stripe Connect, multi-vertical (events / food / bookings) → [ticketwavehq.com](https://ticketwavehq.com) |
-| 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses — education-led, compliance-first, fully managed from £295/month → [ukwebmarketing.com](https://ukwebmarketing.com) |
+| &nbsp; | &nbsp;&nbsp;↳ **Witness** | Sibling product | TicketWave Witness — physical security sensing plane that wires venues, doors, and crowd-flow signals into the same access-decision pipeline |
+| 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses — education-led, compliance-first, fully managed from £49/month (plus £295 launch fee, waived on annual plans) → [ukwebmarketing.com](https://ukwebmarketing.com) |
 | 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder & CTO | The connective layer for healthcare — one health context across consultation, pharmacy, therapy, fitness, insurance & wellness. EU-sovereign, India-first. Coming soon → [orenvahealth.com](https://orenvahealth.com) |
 | 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Engineering Partner | Afrocentric education for children and families — Academy LMS + CIO foundation, taught with love and sensitivity → [brothersylvester.com](https://brothersylvester.com) |
 
