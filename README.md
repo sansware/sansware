@@ -64,6 +64,9 @@ I am the engineer who answers the email. There is no team layer between us.
 - **[site-templates](https://github.com/sansware/site-templates)**, the Astro starter behind production small-business sites.
 - **[eu-sovereignty-checklist](https://github.com/sansware/eu-sovereignty-checklist)**, the checklist + script for keeping a UK/EU SaaS on EEA-sovereign infrastructure.
 - **[founder-bio](https://github.com/sansware/founder-bio)**, canonical bio + verified credentials.
+- **[astro-performance-budget](https://github.com/sansware/astro-performance-budget)**, a drop-in Lighthouse-CI performance budget + GitHub Action for fast Astro sites.
+- **[eu-sovereign-stack](https://github.com/sansware/eu-sovereign-stack)**, an awesome-list of EEA/UK-hosted alternatives to common US SaaS.
+- **[uk-gdpr-dpa-templates](https://github.com/sansware/uk-gdpr-dpa-templates)**, plain-English UK GDPR Article 28 DPA + sub-processor templates.
 
 ---
 
