@@ -59,6 +59,20 @@ I am the engineer who answers the email. There is no team layer between us.
 
 ---
 
+## 🧰 Public tools & templates
+
+- **[site-templates](https://github.com/sansware/site-templates)**, the Astro starter behind production small-business sites.
+- **[eu-sovereignty-checklist](https://github.com/sansware/eu-sovereignty-checklist)**, the checklist + script for keeping a UK/EU SaaS on EEA-sovereign infrastructure.
+- **[founder-bio](https://github.com/sansware/founder-bio)**, canonical bio + verified credentials.
+
+---
+
+## 🏢 Operating orgs
+
+[@TicketWaveHQ](https://github.com/TicketWaveHQ) and [@Ukwebmarketing](https://github.com/Ukwebmarketing).
+
+---
+
 ## 🎓 Background
 
 - **BSc Architectural Engineering & Design Management** — Loughborough University
