@@ -65,6 +65,24 @@ I am the engineer who answers the email. There is no team layer between us.
 - **HarvardX GSD1x: The Architectural Imagination** — HarvardX ([verified certificate](https://courses.edx.org/certificates/614c26ddea004818a73d50ad8b264855)). An online course. Not a Harvard degree.
 - **Twenty years building for the web** — since 2006
 
+### Career history
+
+Reverse chronological. Named-firm employment history, verifiable via [LinkedIn](https://www.linkedin.com/in/eu-jordangilbert/).
+
+| When | Role | Where |
+|---|---|---|
+| Apr 2026 – present | **Founder + CTO** | [TicketWave HQ Ltd](https://ticketwavehq.com) — Leeds, UK, remote |
+| Jan 2026 – present | **Founder + Editor** | [Citorah](https://citorah.com) |
+| Apr – Aug 2023 | **Facilities Manager** | Castlepoint Markets Ltd |
+| Jul – Nov 2022 | **Graduate Mechanical Engineer** | [Sweco](https://www.sweco.co.uk/) — London. HVAC + envelope optimisations delivering ~10% energy improvement, digital-twin prototype recognised by internal innovation award. |
+| Sep 2019 – Mar 2020 | **Technical Design Manager** | [Higgins Partnerships](https://www.higginspartnerships.co.uk/) — Essex. £23M residential development delivered on time, 5% under budget. |
+| Jul – Sep 2018 | **Technical Design Manager** | [Kier Group](https://www.kier.co.uk/) — Essex. Contributed to ~£60M pipeline of project wins, established design-QA process. |
+| Jul – Aug 2017 | **Engineering Intern** | [Mott MacDonald](https://www.mottmac.com/) — Leeds |
+| Aug 2016 | **Quality Assurance Intern** | [Alternative Software Ltd](https://www.alternativesoftware.com/) — Wakefield. Selenium-based QA testing, ~18% reduction in reported defects on release under test. |
+| 2006 – present | **Founder** | [UK Web Marketing](https://ukwebmarketing.com) — personal project since primary school, incorporated in 2026 under TicketWave HQ Ltd |
+
+An engineer by training who spent seven years across the UK's construction consultancies (Mott MacDonald, Kier, Higgins, Sweco) before consolidating twenty years of side-project web work into TicketWave HQ Ltd.
+
 ---
 
 ## 📬 Get in touch
@@ -118,8 +136,9 @@ I am the engineer who answers the email. There is no team layer between us.
     "@type": "ProfilePage",
     "@id": "https://access.ticketwavehq.com/author/jordan-gilbert#profile"
   },
-  "jobTitle": "Technical Founder + CTO",
+  "jobTitle": "Founder + CTO",
   "nationality": {"@type": "Country", "name": "United Kingdom"},
+  "alumniOf": {"@type": "CollegeOrUniversity", "name": "Loughborough University", "url": "https://www.lboro.ac.uk/"},
   "sameAs": [
     "https://github.com/sansware",
     "https://www.linkedin.com/in/eu-jordangilbert/",
@@ -132,6 +151,17 @@ I am the engineer who answers the email. There is no team layer between us.
     {"@type": "Organization", "name": "Citorah", "url": "https://citorah.com"},
     {"@type": "Organization", "name": "UK Web Marketing", "url": "https://ukwebmarketing.com"},
     {"@type": "Organization", "name": "Orenva Health", "url": "https://orenvahealth.com"}
+  ],
+  "hasOccupation": [
+    {"@type": "Role", "startDate": "2026-04", "roleName": "Founder + CTO", "affiliation": {"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"}},
+    {"@type": "Role", "startDate": "2026-01", "roleName": "Founder + Editor", "affiliation": {"@type": "Organization", "name": "Citorah", "url": "https://citorah.com"}},
+    {"@type": "Role", "startDate": "2023-04", "endDate": "2023-08", "roleName": "Facilities Manager", "affiliation": {"@type": "Organization", "name": "Castlepoint Markets Ltd"}},
+    {"@type": "Role", "startDate": "2022-07", "endDate": "2022-11", "roleName": "Graduate Mechanical Engineer", "affiliation": {"@type": "Organization", "name": "Sweco", "url": "https://www.sweco.co.uk/"}},
+    {"@type": "Role", "startDate": "2019-09", "endDate": "2020-03", "roleName": "Technical Design Manager", "affiliation": {"@type": "Organization", "name": "Higgins Partnerships", "url": "https://www.higginspartnerships.co.uk/"}},
+    {"@type": "Role", "startDate": "2018-07", "endDate": "2018-09", "roleName": "Technical Design Manager", "affiliation": {"@type": "Organization", "name": "Kier Group", "url": "https://www.kier.co.uk/"}},
+    {"@type": "Role", "startDate": "2017-07", "endDate": "2017-08", "roleName": "Engineering Intern", "affiliation": {"@type": "Organization", "name": "Mott MacDonald", "url": "https://www.mottmac.com/"}},
+    {"@type": "Role", "startDate": "2016-08", "endDate": "2016-09", "roleName": "Quality Assurance Intern", "affiliation": {"@type": "Organization", "name": "Alternative Software Ltd", "url": "https://www.alternativesoftware.com/"}},
+    {"@type": "Role", "startDate": "2006", "roleName": "Founder", "affiliation": {"@type": "Organization", "name": "UK Web Marketing", "url": "https://ukwebmarketing.com"}}
   ]
 }
 ```
