@@ -56,6 +56,8 @@ The five places are now the spine. They are introduced in Part Two, each gets it
 - Every "(Google Help)" and "(Google for Developers)" tag is removed from the spoken lines. Each becomes an on-screen source caption, and all of them are listed in Source notes.
 - (29) The reviews claim is re-attributed. The draft credited Google's structured-data guidance with warning against fake and incentivised reviews. The accurate source is Google's Maps user-contributed content policy. The spoken line now says "Google's own policies".
 
+**Examples now use Jortech.** Every boiler, plumbing, conservatory and bathroom example is now a Jortech tech repair example, and Jortech is named on camera: the navigational search, the demand map, the headings, the images, first-hand experience and the noindex story. This was your decision, and it drops EP01's rule of never naming the repair business, for this video only. Only real Jortech services are used: phone and tablet repair, laptop and PC repair, console repair, and data recovery. The cross-industry examples (the cold-open trades, dentist, running shoes, the coffee shop, the legal process) stay, to show the ideas apply to any business.
+
 ## Title and thumbnail
 
 **Title:** Not Who's Best. Who's Visible. (The Whole of SEO)
@@ -128,6 +130,8 @@ A restaurant.
 A roofer.
 
 A mechanic.
+
+⁺A phone repair shop.
 
 A software company.
 
@@ -537,53 +541,63 @@ Because a keyword is not a customer.
 
 A search query is a clue about what the person wants.
 
+⁺Through a lot of this video, I'm going to use one real business as the example.
+
+⁺My own.
+
+⁺Jortech. We repair phones, tablets, laptops and consoles, and we recover data.
+
+*\[Lower-third: JORTECH, TECH REPAIR, JORTECH.CO.UK\]*
+
 *\[Screen: a search box. Type each query as it is spoken.\]*
 
 Imagine someone searches:
 
-"plumber"
+"phone screen"
 
 What do they want?
 
 We don't know.
 
-They might want a plumber.
+They might want to buy a replacement screen.
 
-They might want the definition of the word plumber.
+They might want to fix it themselves.
 
-They might be researching the profession.
+They might want to know what a repair costs.
 
-They might want to become a plumber.
+They might want a screen protector.
 
-They might be looking for a plumbing company.
+They might be looking for a repair shop.
 
 They might be looking for one near them.
 
 Now compare that with:
 
-"emergency boiler repair near me"
+"cracked iPhone screen repair near me"
 
 That's much more specific.
 
 Or:
 
-"how to bleed a radiator"
+"how to fix a phone that won't charge"
 
 Different intent.
 
 Or:
 
-"best boiler replacement cost"
+"iPhone 15 screen replacement cost"
 
 Different again.
 
 Or:
 
-"ABC Plumbing phone number"
+"Jortech phone number"
 
 That's navigational.
 
 The person already knows what they're looking for.
+
+⁺They already know the business by name. They just need the way in.
 
 So you can have the same broad subject and completely different intent.
 
@@ -607,7 +621,7 @@ You'll often hear SEO people talk about short-tail and long-tail keywords.
 
 A short-tail term might be:
 
-"plumber"
+"phone repair"
 
 "dentist"
 
@@ -617,7 +631,7 @@ A short-tail term might be:
 
 A long-tail search might be:
 
-"emergency plumber open now in Leeds"
+"iPhone screen repair open now in Leeds"
 
 "best running shoes for flat feet under £100"
 
@@ -665,33 +679,33 @@ Then you understand the different intents.
 
 Then you build useful resources around those needs.
 
-For example, suppose you sell boiler services.
+For example, take a tech repair business like Jortech.
 
-*\[Graphic: a demand map builds. "Boiler services" in the centre, services branching off, questions hanging off each service.\]*
+*\[Graphic: a demand map builds. "Tech repair" in the centre, services branching off, questions hanging off each service.\]*
 
 You might have:
 
-Boiler repair.
+Phone screen repair.
 
-Boiler installation.
+Battery replacement.
 
-Boiler servicing.
+Laptop repair.
 
-Emergency boiler repair.
+Console repair.
 
-Boiler replacement.
+Water damage repair.
 
-Boiler maintenance.
+Data recovery.
 
 And questions:
 
-How much does boiler repair cost?
+How much does a phone screen repair cost?
 
-How long does a boiler replacement take?
+How long does a laptop repair take?
 
-How do I know whether my boiler needs replacing?
+How do I know whether my laptop is worth repairing?
 
-What should I do if my boiler loses pressure?
+What should I do if my phone gets wet?
 
 Those aren't simply a list of keywords.
 
@@ -837,7 +851,7 @@ the results I want in Amsterdam aren't the same results I want in Manchester.
 
 If I search:
 
-"emergency plumber"
+"phone screen repair"
 
 the physical location of the business can be extremely important.
 
@@ -859,7 +873,7 @@ If someone searches for a dentist, a dentist is relevant.
 
 A bicycle shop isn't.
 
-If someone searches for emergency boiler repair, a company that actually provides emergency boiler repair is more relevant than one that only sells radiators.
+If someone searches for console repair, a shop that actually repairs consoles is more relevant than one that only sells phone cases.
 
 So your business information needs to make the business understandable.
 
@@ -901,7 +915,7 @@ And the information Google receives from across the web can matter.
 
 Your Google Business Profile is one of the obvious foundations for a local business.
 
-*\[Screen: a well-completed Business Profile. Use a demo or fictional business, never a real client's without permission.\]*
+*\[Screen: Jortech's Google Business Profile. Make sure every field is complete and accurate before filming.\]*
 
 Make sure the business is represented accurately.
 
@@ -981,7 +995,7 @@ Local SEO matrix pages.
 
 Imagine you provide:
 
-Boiler repair.
+Phone repair.
 
 And you serve:
 
@@ -1001,13 +1015,13 @@ But here's the trap.
 
 You create:
 
-/boiler-repair-leeds
+/phone-repair-leeds
 
-/boiler-repair-bradford
+/phone-repair-bradford
 
-/boiler-repair-wakefield
+/phone-repair-wakefield
 
-/boiler-repair-huddersfield
+/phone-repair-huddersfield
 
 and then copy the same page four times.
 
@@ -1233,7 +1247,7 @@ It shouldn't be a collection of keywords.
 
 If the page is:
 
-"Emergency Boiler Repair in Leeds"
+"iPhone Screen Repair in Leeds"
 
 then say what the page is.
 
@@ -1241,7 +1255,7 @@ Don't turn it into:
 
 *\[Screen: the stuffed title typed out in full, visibly absurd.\]*
 
-"Boiler Boiler Repair Leeds Boiler Service Boiler Installation Best Boiler Company Leeds."
+"Phone Phone Repair Leeds iPhone Repair Screen Repair Leeds Cheap Phone Repair Best Phone Repair Shop Leeds."
 
 That isn't optimisation.
 
@@ -1559,9 +1573,9 @@ your beautifully written page isn't going to solve that problem.
 
 I know that because I've done it.
 
-I once had a booking page on my own repair business site carrying a noindex directive for far too long.
+I once had a booking page on Jortech, my own repair business, carrying a noindex directive for far too long.
 
-*\[Do not show or name the repair site. If a visual is needed, use a mock booking page.\]*
+*\[Screen: a recreation of the Jortech booking page, with the noindex tag highlighted in the page source. Never show real customer bookings.\]*
 
 The page existed.
 
@@ -1709,13 +1723,13 @@ Good internal linking creates pathways.
 
 And it also communicates relationships.
 
-A page about boiler repair might link to:
+A page about phone screen repair might link to:
 
-boiler replacement,
+battery replacement,
 
-boiler servicing,
+water damage repair,
 
-emergency repairs,
+charging port repair,
 
 pricing,
 
@@ -1851,19 +1865,19 @@ But don't turn heading levels into some kind of SEO ritual.
 
 The purpose is clarity.
 
-A page about boiler repair might have:
+A page about laptop repair might have:
 
 *\[Screen: the heading outline builds as spoken.\]*
 
-H1 — Boiler Repair in Leeds
+H1 — Laptop Repair in Leeds
 
-H2 — Common Boiler Problems
+H2 — Common Laptop Problems
 
-H2 — Emergency Boiler Repair
+H2 — Screen and Keyboard Replacement
 
-H2 — How Much Does Boiler Repair Cost?
+H2 — How Much Does Laptop Repair Cost?
 
-H2 — When Should You Replace a Boiler?
+H2 — When Is a Laptop Worth Replacing?
 
 That creates structure.
 
@@ -1887,17 +1901,17 @@ You do not need to repeat your target phrase endlessly.
 
 If you're writing:
 
-"Boiler repair Leeds"
+"Laptop repair Leeds"
 
 and every paragraph contains:
 
 *\[Screen: the phrase highlighted in every paragraph of a page, multiplying.\]*
 
-"boiler repair Leeds"
+"laptop repair Leeds"
 
-"boiler repair Leeds"
+"laptop repair Leeds"
 
-"boiler repair Leeds"
+"laptop repair Leeds"
 
 the page starts sounding like it was written for an algorithm rather than a human.
 
@@ -1927,21 +1941,21 @@ You need useful content because your customers have questions.
 
 Those questions can become content.
 
-Suppose you sell conservatories.
+Suppose you offer data recovery.
 
 People might ask:
 
-How much does a conservatory cost?
+Can you recover files from a laptop that won't turn on?
 
-Do I need planning permission?
+How much does data recovery cost?
 
-How long does installation take?
+How long does it take?
 
-Which materials are best?
+Can photos be recovered from a phone that's been in water?
 
-How do I maintain one?
+Is my data kept private while you work on it?
 
-Is it worth replacing the roof?
+How do I stop it happening again?
 
 Those are legitimate information needs.
 
@@ -1949,7 +1963,7 @@ Create genuinely useful answers.
 
 But don't publish:
 
-"10 reasons why our conservatory company is amazing."
+"10 reasons why our repair shop is amazing."
 
 every Tuesday.
 
@@ -1993,7 +2007,7 @@ Surrounding text.
 
 And, above all, relevance.
 
-If the image is a photograph of a bathroom renovation, the filename shouldn't necessarily be:
+If the image is a photograph of a cracked iPhone screen being repaired, the filename shouldn't necessarily be:
 
 *\[Screen: the two filenames side by side.\]*
 
@@ -2001,13 +2015,13 @@ IMG\_839201.jpg
 
 If you can meaningfully describe it, something like:
 
-bathroom-renovation-leeds.jpg
+iphone-screen-repair-leeds.jpg
 
 is more informative.
 
 But don't turn alt text into:
 
-"best bathroom renovation Leeds bathroom renovation company Leeds."
+"best iPhone screen repair Leeds phone repair shop Leeds."
 
 Alt text is not a keyword dumping ground.
 
@@ -2293,7 +2307,7 @@ That's much more useful than trying to game a fictional score.
 
 Experience is particularly interesting.
 
-Suppose I'm writing about repairing a boiler.
+Suppose I'm writing about a phone that won't charge.
 
 I can produce an article from generic information.
 
@@ -2301,13 +2315,13 @@ Or I can explain:
 
 "We see this fault regularly."
 
-"Here's what the pressure gauge normally looks like."
+"Very often, it's pocket lint packed into the charging port."
 
 "Here's what happened on a recent job."
 
 "Here are the three things we check first."
 
-"Here's the point where you should stop troubleshooting and call a professional."
+"Here's the point where you should stop troubleshooting and bring it in."
 
 That's first-hand experience.
 
@@ -2377,7 +2391,7 @@ Don't make the visitor work to discover whether they're in the right place.
 
 If someone searched:
 
-"emergency boiler repair Leeds"
+"cracked iPhone screen repair Leeds"
 
 and your page starts with:
 
@@ -3703,7 +3717,7 @@ And now you understand the whole of SEO.
 
 ## Production
 
-Everything on screen comes from a demo site, a fictional business or a property you have permission to show. Blur client data. Never show or name the repair business.
+Everything on screen comes from Jortech, a demo site, a fictional business, or a property you have permission to show. Blur client and customer data.
 
 **Recurring graphics (build once, reuse throughout)**
 
@@ -3720,11 +3734,11 @@ Everything on screen comes from a demo site, a fictional business or a property 
 
 1. Search results for a local-service query showing an AI Overview, map pack, organic links, reviews, images, video and ads, for the cold open
 2. Search bars on YouTube, Amazon, Instagram, Facebook, Maps, a marketplace and a site search
-3. Typed queries: plumber, emergency boiler repair near me, how to bleed a radiator, best boiler replacement cost, ABC Plumbing phone number
+3. Typed queries: phone screen, cracked iPhone screen repair near me, how to fix a phone that won't charge, iPhone 15 screen replacement cost, Jortech phone number
 4. An AI Overview, a featured result and a knowledge panel, for the answer
 5. Clean Organization or LocalBusiness structured data beside its page (illustrative)
 6. "coffee shop" map packs in Amsterdam and Manchester (use location settings or a VPN)
-7. A complete Business Profile for a demo business
+7. Jortech's Google Business Profile, complete and accurate
 8. Four near-identical town pages in browser tabs
 9. A single organic result with the title and snippet highlighted in turn
 10. robots.txt, a noindex meta tag in page source, three canonical URL variants
@@ -3743,7 +3757,7 @@ Everything on screen comes from a demo site, a fictional business or a property 
 
 **Graphics to build**
 
-Person ← SEO → information; the SEO types tiling then collapsing into one line; the boiler demand map; relevance, distance, prominence; the NAP mismatch; the service by town grid lighting only earned cells; the six-stage pipeline; status code cards; the website floor plan with doors; Core Web Vitals cards; found, understood, chosen tiers; the order of operations ladder; the research loop; the "→ rank" lines struck through; the checklist.
+Person ← SEO → information; the SEO types tiling then collapsing into one line; the tech repair demand map; relevance, distance, prominence; the NAP mismatch; the service by town grid lighting only earned cells; the six-stage pipeline; status code cards; the website floor plan with doors; Core Web Vitals cards; found, understood, chosen tiers; the order of operations ladder; the research loop; the "→ rank" lines struck through; the checklist.
 
 **On-screen source captions, in order**
 
@@ -3776,7 +3790,7 @@ Every Google claim spoken in the script, with the page it comes from. **I couldn
 | Search Console helps you monitor and understand performance in Google Search, including crawling and indexing | Nine | [About Search Console](https://support.google.com/webmasters/answer/9128668) |
 | Spam is content meant to deceive users or manipulate Search; violating content can rank lower or not appear | Eleven | [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies) |
 
-**Claims that are Jordan's own, not Google's.** These are fine as stated, but they must stay true: the noindex booking page on the repair business site; "I'll do a separate video on Google Ads"; everything about the audit tool (see Pre-filming checks).
+**Claims that are Jordan's own, not Google's.** These are fine as stated, but they must stay true: the noindex booking page on Jortech; Jortech's services as listed; "I'll do a separate video on Google Ads"; everything about the audit tool (see Pre-filming checks).
 
 ## YouTube description, chapters and tags
 
@@ -3833,7 +3847,8 @@ VerySEOly is a UK web and marketing studio operated by TicketWave HQ Ltd. We bui
 
 - [ ] **Confirm the audit tool matches the script.** The close says: no email needed, no sales call, you run it yourself, about twenty seconds. EP01 describes a requested audit that "takes about a minute to request". Only one of these can be true, so fix whichever script is wrong.
 - [ ] **Open every source link** in Source notes and confirm Google's wording hasn't changed.
-- [ ] **Confirm the noindex story is accurate as told,** and that no footage names or shows the repair business.
+- [ ] **Confirm the noindex story is accurate as told,** including roughly how long the Jortech booking page carried noindex.
+- [ ] **Check the Jortech examples against reality.** The lower-third URL (jortech.co.uk); iPhone screen, battery, charging port and water damage repairs; laptop screen and keyboard replacement; console repair; data recovery; Leeds as the example location. Change anything Jortech doesn't actually do or say.
 - [ ] **Decide on the ChatGPT line** in Part Four ("Make ChatGPT recommend my business"). It is accurate and makes the point, but it names a rival AI product on a channel whose flagship episode is built around Claude.
 - [ ] **Clear permission for every property shown on screen,** or use demo data.
 - [ ] **After the edit,** replace the estimated timestamps in the structure table, description and chapters with the real ones.
