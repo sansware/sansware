@@ -6,8 +6,8 @@
 
 **Fractional CTO · Founder · EU-sovereign systems engineer**
 
-I build EU-sovereign web, ticketing, and AI products, and I provide technical
-leadership for startups scaling MVPs into production systems. Based in the United Kingdom.
+I run TicketWave HQ Ltd, which trades as VerySEOly, JorTech and Dacros and builds
+TicketWave, and I take a small number of fractional CTO retainers. Based in the United Kingdom.
 
 [**Canonical author page →**](https://access.ticketwavehq.com/author/jordan-gilbert) · [**Everything I have written →**](https://access.ticketwavehq.com/author/jordan-gilbert/works) · [**RSS →**](https://access.ticketwavehq.com/author/jordan-gilbert/feed.xml)
 
@@ -24,14 +24,18 @@ leadership for startups scaling MVPs into production systems. Based in the Unite
 
 ## 🏗 What I am building
 
-| | Project | Role | Where |
+| | Project | Role | What it is |
 |---|---|---|---|
-| 🎫 | **[TicketWave HQ](https://github.com/TicketWaveHQ)** | Founder + Technical CTO | Access-decision infrastructure for ticketing, hospitality, and services. Stripe Connect, multi-vertical (events / food / bookings). → [ticketwavehq.com](https://ticketwavehq.com) |
-| &nbsp; | &nbsp;&nbsp;↳ **Witness** | Sibling product | TicketWave Witness — physical security sensing plane that wires venues, doors, and crowd-flow signals into the same access-decision pipeline. |
+| 🏢 | **[TicketWave HQ Ltd](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)) | Founder and director | The company: five practices, sold through three brands and directly |
+| 🌐 | **[VerySEOly](https://veryseoly.com)** ([@Ukwebmarketing](https://github.com/Ukwebmarketing)) | Founder | Websites, search and the marketing systems behind them, built and run for UK businesses. Formerly UK Web Marketing |
+| 🔧 | **[JorTech](https://www.jortech.co.uk)** | Founder | Computer, laptop and device repair for homes and small offices across Leeds and Yorkshire |
+| 🛡 | **[Dacros](https://dacros.com)** | Founder | Managed IT, business email and cyber security for UK small businesses |
+| 🧭 | **[Fractional CTO](https://ticketwavehq.com/fractional-cto)** | CTO for hire | Technical leadership for founders and boards, on a monthly retainer through TicketWave HQ |
+| 🎫 | **[TicketWave](https://access.ticketwavehq.com)** ([@TicketWave-IP](https://github.com/TicketWave-IP)) | Founder | White-label commerce for events, bookings and online ordering |
+| 🛰 | **Witness** | Founder | Physical-security sensing for venues and housing, being set up as its own company |
 | 🌍 | **[Citorah](https://citorah.com)** | Founder + Editor | Editorial city-guide network for Ibiza, Barcelona, Madrid, London, Lisbon, Greece, Dubai, and Cancun. Locals' concierge across cities, taught with love and sensitivity. → [citorah.com](https://citorah.com) |
-| 🌐 | **[UK Web Marketing](https://github.com/Ukwebmarketing)** | Founder + Lead Engineer | Managed, EU-sovereign website infrastructure for UK businesses. Education-led, compliance-first, fully managed. → [ukwebmarketing.com](https://ukwebmarketing.com) |
-| 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + CTO | Connective layer for healthcare, one health context across consultation, pharmacy, therapy, fitness, insurance, and wellness. EU-sovereign, India-first. Coming soon. → [orenvahealth.com](https://orenvahealth.com) |
-| 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Technical Maintainer | Afrocentric education for children and families. Academy LMS + CIO foundation, taught with love and sensitivity. → [brothersylvester.com](https://brothersylvester.com) |
+| 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + CTO | Connective layer for healthcare, one health context across consultation, pharmacy, therapy, fitness, insurance, and wellness. EU-sovereign, India-first. Coming soon. → [orenvahealth.com](https://orenvahealth.com) Separate from TicketWave HQ |
+| 📚 | **[Brother Sylvester](https://brothersylvester.com)** | Technical maintainer | Afrocentric education for children and families. Academy LMS + CIO foundation, taught with love and sensitivity. → [brothersylvester.com](https://brothersylvester.com) |
 
 ---
 
@@ -50,7 +54,7 @@ All of the above are cross-listed on [my author page](https://access.ticketwaveh
 
 **Hands-on, single-engineer, AI-leveraged.** Every line of code I ship, or oversee, I can explain. I do not subcontract critical paths.
 
-- **Stack default**: Next.js 16 + Astro 6 on Vercel · Neon Postgres · Stripe Connect · Resend · Cloudflare for DNS/edge · Sentry EU + PostHog EU
+- **Stack default**: Astro and Next.js · Postgres on EU-hosted servers · Stripe Connect · Resend · Cloudflare DNS · Sentry EU
 - **Frameworks I lean on**: TypeScript, Drizzle ORM (schema + migrations), Tailwind 4 (CSS-first), Turborepo
 - **Compliance posture default**: EU-sovereign hosting, DKIM/SPF/DMARC alignment, DNSSEC, RFC 9116 security.txt
 - **Engineering principle**: ship a thing that works end-to-end before adding the second feature
@@ -61,18 +65,19 @@ I am the engineer who answers the email. There is no team layer between us.
 
 ## 🧰 Public tools & templates
 
-- **[site-templates](https://github.com/sansware/site-templates)**, the Astro starter behind production small-business sites.
-- **[eu-sovereignty-checklist](https://github.com/sansware/eu-sovereignty-checklist)**, the checklist + script for keeping a UK/EU SaaS on EEA-sovereign infrastructure.
-- **[founder-bio](https://github.com/sansware/founder-bio)**, canonical bio + verified credentials.
-- **[astro-performance-budget](https://github.com/sansware/astro-performance-budget)**, a drop-in Lighthouse-CI performance budget + GitHub Action for fast Astro sites.
-- **[eu-sovereign-stack](https://github.com/sansware/eu-sovereign-stack)**, an awesome-list of EEA/UK-hosted alternatives to common US SaaS.
-- **[uk-gdpr-dpa-templates](https://github.com/sansware/uk-gdpr-dpa-templates)**, plain-English UK GDPR Article 28 DPA + sub-processor templates.
+Published by TicketWave HQ and free to use:
+
+- **[eu-sovereignty-checklist](https://github.com/TicketWaveHQ/eu-sovereignty-checklist)**, the checklist and script for keeping a UK/EU service on EEA-sovereign infrastructure.
+- **[eu-sovereign-stack](https://github.com/TicketWaveHQ/eu-sovereign-stack)**, EEA and UK-hosted alternatives to common US SaaS.
+- **[uk-gdpr-dpa-templates](https://github.com/TicketWaveHQ/uk-gdpr-dpa-templates)**, plain-English UK GDPR Article 28 DPA and sub-processor templates.
+- **[website-care-checklist](https://github.com/TicketWaveHQ/website-care-checklist)**, what running a website should include, so you can check whether you are getting it.
+- **[astro-performance-budget](https://github.com/TicketWaveHQ/astro-performance-budget)**, a Lighthouse CI performance budget and GitHub Action for fast Astro sites.
 
 ---
 
 ## 🏢 Operating orgs
 
-[@TicketWaveHQ](https://github.com/TicketWaveHQ) and [@Ukwebmarketing](https://github.com/Ukwebmarketing).
+[@TicketWaveHQ](https://github.com/TicketWaveHQ) (the company), [@Ukwebmarketing](https://github.com/Ukwebmarketing) (VerySEOly) and [@TicketWave-IP](https://github.com/TicketWave-IP) (the TicketWave platform's public API).
 
 ---
 
@@ -96,7 +101,7 @@ Reverse chronological. Named-firm employment history, verifiable via [LinkedIn](
 | Jul – Sep 2018 | **Technical Design Manager** | [Kier Group](https://www.kier.co.uk/) — Essex. Contributed to ~£60M pipeline of project wins, established design-QA process. |
 | Jul – Aug 2017 | **Engineering Intern** | [Mott MacDonald](https://www.mottmac.com/) — Leeds |
 | Aug 2016 | **Quality Assurance Intern** | [Alternative Software Ltd](https://www.alternativesoftware.com/) — Wakefield. Selenium-based QA testing, ~18% reduction in reported defects on release under test. |
-| 2006 – present | **Founder** | [UK Web Marketing](https://ukwebmarketing.com) — personal project since primary school, incorporated in 2026 under TicketWave HQ Ltd |
+| 2006 – present | **Founder** | [VerySEOly](https://veryseoly.com), formerly UK Web Marketing — a personal project since primary school, trading as part of TicketWave HQ Ltd since 2026 |
 
 An engineer by training who spent seven years across the UK's construction consultancies (Mott MacDonald, Kier, Higgins, Sweco) before consolidating twenty years of side-project web work into TicketWave HQ Ltd.
 
@@ -106,8 +111,9 @@ An engineer by training who spent seven years across the UK's construction consu
 
 | For | Where |
 |---|---|
-| **Fractional CTO retainer** | [ukwebmarketing.com/audit](https://ukwebmarketing.com/audit) (start with a free site audit) |
-| **TicketWave partner application** | [ticketwavehq.com/partners/apply](https://ticketwavehq.com/partners/apply) |
+| **Fractional CTO retainer** | [ticketwavehq.com/fractional-cto](https://ticketwavehq.com/fractional-cto) |
+| **A website, a repair or IT support** | [veryseoly.com](https://veryseoly.com) · [jortech.co.uk](https://www.jortech.co.uk) · [dacros.com](https://dacros.com) |
+| **TicketWave partner application** | [access.ticketwavehq.com/partners/apply](https://access.ticketwavehq.com/partners/apply) |
 | **Direct email** | [jordan@sansware.tech](mailto:jordan@sansware.tech) |
 | **LinkedIn** | [linkedin.com/in/eu-jordangilbert](https://www.linkedin.com/in/eu-jordangilbert/) |
 | **YouTube** | [@jordzaura](https://www.youtube.com/@jordzaura) |
@@ -166,7 +172,7 @@ An engineer by training who spent seven years across the UK's construction consu
   "worksFor": [
     {"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"},
     {"@type": "Organization", "name": "Citorah", "url": "https://citorah.com"},
-    {"@type": "Organization", "name": "UK Web Marketing", "url": "https://ukwebmarketing.com"},
+    {"@type": "Organization", "name": "VerySEOly", "alternateName": "UK Web Marketing", "url": "https://veryseoly.com"},
     {"@type": "Organization", "name": "Orenva Health", "url": "https://orenvahealth.com"}
   ],
   "hasOccupation": [
@@ -178,7 +184,7 @@ An engineer by training who spent seven years across the UK's construction consu
     {"@type": "Role", "startDate": "2018-07", "endDate": "2018-09", "roleName": "Technical Design Manager", "affiliation": {"@type": "Organization", "name": "Kier Group", "url": "https://www.kier.co.uk/"}},
     {"@type": "Role", "startDate": "2017-07", "endDate": "2017-08", "roleName": "Engineering Intern", "affiliation": {"@type": "Organization", "name": "Mott MacDonald", "url": "https://www.mottmac.com/"}},
     {"@type": "Role", "startDate": "2016-08", "endDate": "2016-09", "roleName": "Quality Assurance Intern", "affiliation": {"@type": "Organization", "name": "Alternative Software Ltd", "url": "https://www.alternativesoftware.com/"}},
-    {"@type": "Role", "startDate": "2006", "roleName": "Founder", "affiliation": {"@type": "Organization", "name": "UK Web Marketing", "url": "https://ukwebmarketing.com"}}
+    {"@type": "Role", "startDate": "2006", "roleName": "Founder", "affiliation": {"@type": "Organization", "name": "VerySEOly", "alternateName": "UK Web Marketing", "url": "https://veryseoly.com"}}
   ]
 }
 ```
