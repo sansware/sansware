@@ -6,7 +6,7 @@
 
 **Fractional CTO · Founder · EU-sovereign systems engineer**
 
-I run TicketWave HQ Ltd, which trades as VerySEOly, JorTech and Dacros and is building Stubkin,
+I run TicketWave HQ Ltd, which trades as VerySEOly, JorTech, Dacros and Custodiance, and is building Stubkin,
 and I take a small number of fractional CTO retainers. Based in the United Kingdom.
 
 [**Profile →**](https://veryseoly.com/jordan) · [**Credentials →**](https://veryseoly.com/credentials) · [**What I write →**](https://veryseoly.com/blog)
@@ -25,10 +25,11 @@ and I take a small number of fractional CTO retainers. Based in the United Kingd
 
 | | Project | Role | What it is |
 |---|---|---|---|
-| 🏢 | **[TicketWave HQ Ltd](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)) | Founder and director | The company: five practices, sold through three brands and directly |
+| 🏢 | **[TicketWave HQ Ltd](https://ticketwavehq.com)** ([@TicketWaveHQ](https://github.com/TicketWaveHQ)) | Founder and director | The company: five practices, sold through three brands, a pilot brand and directly |
 | 🌐 | **[VerySEOly](https://veryseoly.com)** ([@Ukwebmarketing](https://github.com/Ukwebmarketing)) | Founder | Websites, search and the marketing systems behind them, built and run for UK businesses. Formerly UK Web Marketing |
 | 🔧 | **[JorTech](https://www.jortech.co.uk)** | Founder | Computer, laptop and device repair for homes and small offices across Leeds and Yorkshire, with remote support UK-wide |
 | 🛡 | **[Dacros](https://dacros.com)** | Founder | Managed IT support and cyber security for businesses across the UK, remote first, on site by arrangement |
+| 🏛 | **[Custodiance](https://custodiance.com)** | Founder and technical partner | Managed web and email infrastructure for UK regulated practices, built to your regulator's standard. A pilot |
 | 🧭 | **[Fractional CTO](https://ticketwavehq.com/fractional-cto)** | CTO for hire | Technical leadership for founders and boards, on a monthly retainer through TicketWave HQ |
 | 🎫 | **[Stubkin](https://stubkin.com)** (formerly TicketWave) | Founder | Ticketing and online commerce for events, bookings and ordering, under your own brand. Coming soon |
 | 🛰 | **Witness** | Founder | Physical-security sensing for venues and housing, being set up as its own company |
@@ -72,7 +73,7 @@ Published by TicketWave HQ and free to use:
 
 ## 🏢 Operating orgs
 
-[@TicketWaveHQ](https://github.com/TicketWaveHQ) (the company), [@Ukwebmarketing](https://github.com/Ukwebmarketing) (VerySEOly) and [@TicketWave-IP](https://github.com/TicketWave-IP) (product code, including Stubkin's).
+[@TicketWaveHQ](https://github.com/TicketWaveHQ) (the company), [@Ukwebmarketing](https://github.com/Ukwebmarketing) (VerySEOly), [@TicketWave-IP](https://github.com/TicketWave-IP) (product code, including Stubkin's) and [@TicketWave-Ventures](https://github.com/TicketWave-Ventures) (Citorah). I also maintain [@Brother-Sylvester](https://github.com/Brother-Sylvester).
 
 ---
 
@@ -130,8 +131,9 @@ An engineer by training who spent seven years across the UK's construction consu
 <!--
   Canonical Person JSON-LD. Uses the same @id as veryseoly.com/jordan, where the
   credentials are kept (veryseoly.com/credentials), so entity linkers consolidate
-  GitHub authorship with that Person. The /jordan pages on jortech.co.uk and
-  dacros.com describe the same person. Until 2026-10-26 this pointed at
+  GitHub authorship with that Person. Every page in sameAs (jortech.co.uk/jordan,
+  dacros.com/jordan, ticketwavehq.com/about, citorah.com/author and
+  custodiance.com/about) describes the same person. Until 2026-10-26 this pointed at
   access.ticketwavehq.com, which now redirects to stubkin.com (ADR-0023).
 -->
 
@@ -159,7 +161,8 @@ An engineer by training who spent seven years across the UK's construction consu
     "https://www.jortech.co.uk/jordan",
     "https://dacros.com/jordan",
     "https://ticketwavehq.com/about",
-    "https://citorah.com/author"
+    "https://citorah.com/author",
+    "https://custodiance.com/about"
   ],
   "worksFor": [
     {"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"},
