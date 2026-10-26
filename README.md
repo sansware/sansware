@@ -157,7 +157,9 @@ An engineer by training who spent seven years across the UK's construction consu
     "https://www.linkedin.com/in/eu-jordangilbert/",
     "https://www.instagram.com/jordzaura",
     "https://www.jortech.co.uk/jordan",
-    "https://dacros.com/jordan"
+    "https://dacros.com/jordan",
+    "https://ticketwavehq.com/about",
+    "https://citorah.com/author"
   ],
   "worksFor": [
     {"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"},
