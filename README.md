@@ -33,7 +33,7 @@ and I take a small number of fractional CTO retainers. Based in the United Kingd
 | 🧭 | **[Fractional CTO](https://ticketwavehq.com/fractional-cto)** | CTO for hire | Technical leadership for founders and boards, on a monthly retainer through TicketWave HQ |
 | 🎫 | **[Stubkin](https://stubkin.com)** (formerly TicketWave) | Founder | Ticketing and online commerce for events, bookings and ordering, under your own brand. Coming soon |
 | 🛰 | **Witness** | Founder | Physical-security sensing for venues and housing, being set up as its own company |
-| 🌍 | **[Citorah](https://citorah.com)** | Founder + Editor | Multi-destination travel platform with editorial city guides. Go anywhere like you've got a guy there |
+| 🌍 | **[Citorah](https://citorah.com)** | Founder, editor and publisher | Multi-destination travel platform with editorial city guides. Go anywhere like you've got a guy there |
 | 🏥 | **[Orenva Health](https://github.com/Orenva-Health)** | Co-founder + CTO | Connective layer for healthcare, one health context across consultation, pharmacy, therapy, fitness, insurance, and wellness. EU-sovereign, India-first. Coming soon. → [orenvahealth.com](https://orenvahealth.com) Separate from TicketWave HQ |
 | 📚 | **[Brother Sylvester](https://www.brothersylvester.com)** | Technical maintainer | Afrocentric education for children and families, taught with love and sensitivity: essays, a history library, school bookings and the Sister Marilyn Harella Wilkes Leader Foundation |
 
@@ -90,7 +90,7 @@ Reverse chronological. Named-firm employment history, verifiable via [LinkedIn](
 | When | Role | Where |
 |---|---|---|
 | Apr 2026 – present | **Founder + CTO** | [TicketWave HQ Ltd](https://ticketwavehq.com), Leeds, UK, remote |
-| Jan 2026 – present | **Founder + Editor** | [Citorah](https://citorah.com) |
+| Jan 2026 – present | **Founder, editor and publisher** | [Citorah](https://citorah.com) |
 | Apr – Aug 2023 | **Facilities Manager** | Castlepoint Markets Ltd |
 | Jul – Nov 2022 | **Graduate Mechanical Engineer** | [Sweco](https://www.sweco.co.uk/), London. HVAC + envelope optimisations delivering ~10% energy improvement, digital-twin prototype recognised by internal innovation award. |
 | Sep 2019 – Mar 2020 | **Technical Design Manager** | [Higgins Partnerships](https://www.higginspartnerships.co.uk/), Essex. £23M residential development delivered on time, 5% under budget. |
@@ -172,7 +172,7 @@ An engineer by training who spent seven years across the UK's construction consu
   ],
   "hasOccupation": [
     {"@type": "Role", "startDate": "2026-04", "roleName": "Founder + CTO", "affiliation": {"@type": "Organization", "name": "TicketWave HQ Ltd", "url": "https://ticketwavehq.com"}},
-    {"@type": "Role", "startDate": "2026-01", "roleName": "Founder + Editor", "affiliation": {"@type": "Organization", "name": "Citorah", "url": "https://citorah.com"}},
+    {"@type": "Role", "startDate": "2026-01", "roleName": "Founder, editor and publisher", "affiliation": {"@type": "Organization", "name": "Citorah", "url": "https://citorah.com"}},
     {"@type": "Role", "startDate": "2023-04", "endDate": "2023-08", "roleName": "Facilities Manager", "affiliation": {"@type": "Organization", "name": "Castlepoint Markets Ltd"}},
     {"@type": "Role", "startDate": "2022-07", "endDate": "2022-11", "roleName": "Graduate Mechanical Engineer", "affiliation": {"@type": "Organization", "name": "Sweco", "url": "https://www.sweco.co.uk/"}},
     {"@type": "Role", "startDate": "2019-09", "endDate": "2020-03", "roleName": "Technical Design Manager", "affiliation": {"@type": "Organization", "name": "Higgins Partnerships", "url": "https://www.higginspartnerships.co.uk/"}},
